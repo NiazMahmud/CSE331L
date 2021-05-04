@@ -19,6 +19,9 @@ mov bl,cl
 div bl
 
 
+
+
+
 mul cl
 
 cmp al,num
